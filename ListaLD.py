@@ -1,5 +1,3 @@
-
-
 M = ["LuisD", "Karen", "Maria", "Jesus", "James", "Falcao"]
 
 Menu = int (input("Escojer una opcion del Menu: \n1. Crear Personas \n 2. Elimir Personaje \n 3. Lista de personas \n 4. Buscar persona "))
